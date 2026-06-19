@@ -60,3 +60,12 @@ button:hover{
     text-align:center;
     margin-top:15px;
 }
+h3{
+    text-align:center;
+    margin-bottom:15px;
+    color:#0077b6;
+}
+
+hr{
+    margin:15px 0;
+}
